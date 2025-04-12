@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Login</string>
+    <string name="login_page">Login Page</string>
+    <string name="check_login_details">Check Login Details</string>
+    <string name="enter_id_and_password">Enter ID and Password</string>
+    <string name="id">ID</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+</resources>
