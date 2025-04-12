@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">envoi de SMS</string>
+    <string name="Numero">Numéro</string>
+    <string name="edit_numero">Entrez le numéro</string>
+    <string name="edit_message">Tapez le message</string>
+    <string name="envoyer">Envoyer</string>
+    <color name="black">#001122</color>
+    <color name="orange">#CC6600</color>
+</resources>
